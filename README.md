@@ -23,7 +23,7 @@ This repo includes a Node.js app, which features a vehicle dashboard and demonst
 
 ### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/highmobility/hm-graphql-auto-api-explorer/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SurinameClubcard/hm-graphql-auto-api-explorer/tree/main)
 
 ### Where to find config information
 
